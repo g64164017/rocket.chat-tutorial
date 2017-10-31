@@ -344,7 +344,7 @@ Berikut ini beberapa perbandingan antara Slack dan Rocket Chat:
 
 [`^ kembali ke atas ^`](#home)
 
-1. <a id="1"></a>[https://docs.rocket.chat/](https://docs.rocket.chat/) Rocket.Chat Documentation - Rocket.Chat
-2. <a id="2"></a>[https://www.digitalocean.com/community/tutorials/how-to-...](https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-deploy-rocket-chat-on-ubuntu-14-04) How To Install, Configure, and Deploy Rocket.Chat on Ubuntu 14.04 - DigitalOcean
-3. <a id="3"></a>[https://obviate.io/2015/09/25/why-slack-when-you-can-rocket-chat/](https://obviate.io/2015/09/25/why-slack-when-you-can-rocket-chat/) - Rocket.Chat Review
-4. <a id="4"></a>[https://www.slant.co/versus/4553/10600/~slack_vs_rocket-chat](https://www.slant.co/versus/4553/10600/~slack_vs_rocket-chat) - User base vote on Compariton Rocket.Chat and Slack
+1. <a id="1"></a>[Rocket.Chat Documentation](https://docs.rocket.chat/)  - Rocket.Chat
+2. <a id="2"></a>[How To Install, Configure, and Deploy Rocket.Chat on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-deploy-rocket-chat-on-ubuntu-14-04) - DigitalOcean
+3. <a id="3"></a>[Rocket.Chat Review](https://obviate.io/2015/09/25/why-slack-when-you-can-rocket-chat/) - obviate.io
+4. <a id="4"></a>[User base vote on Compariton Rocket.Chat and Slack](https://www.slant.co/versus/4553/10600/~slack_vs_rocket-chat) - slant.co
