@@ -1,11 +1,11 @@
-<div align="center"><a href="https://rocket.chat/"><img src="https://www.stickermule.com/marketplace/embed_img/10009" style="max-width:100%;"></a></div>
+<div id="home" align="center"><a href="https://rocket.chat/"><img src="https://www.stickermule.com/marketplace/embed_img/10009" style="max-width:100%;"></a></div>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 # Sekilas Tentang
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 Rocket.Chat adalah solusi obrolan _(chat)_ berbasis _open source_ yang dapat berjalan pada lingkungan desktop menggunakan _web browser_ maupun perngkat _mobile_ seperti Android, iOS. Aplikasi ini dinobatkan sebagai top project pada Rookies Open Source Black Duck of the Year pada tahun 2016.
 
@@ -13,7 +13,7 @@ Perusahaan yang dipimpin oleh Gabriel Engel (CEO) ini berbasis di Brazil namun s
 
 # Instalasi
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 Panduan ini dibangun dengan asumsi berikut:
 - Sistem operasi: Ubuntu Server 16.04
@@ -109,7 +109,7 @@ Hal ini mengindikasikan bahwa layanan Rocket.Chat sudah berjalan pada port 3000 
 
 # Konfigurasi
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 ## Penanganan SSL (Opsional)
 
@@ -216,7 +216,7 @@ https://localhost:4444/admin/Logs
 
 # Otomatisasi
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 ## Jalankan Rocket.Chat sebagai _service_
 
@@ -233,7 +233,7 @@ sudo service rocketchat start
 
 # Cara Pemakaian
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 Pemakaian Rocket.Chat cukup sederhana layaknya aplikasi chat kebanyakan. 
 
@@ -308,7 +308,7 @@ Beberapa pengaturan yang dimungkinkan antara lain: nama ruangan, topik, deskrips
 
 # Pembahasan
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 Ref: [[3]](#3) [[4]](#4)
 
@@ -342,7 +342,7 @@ Berikut ini beberapa perbandingan antara Slack dan Rocket Chat:
 
 # Referensi
 
-[`^ kembali ke atas ^`](#)
+[`^ kembali ke atas ^`](#home)
 
 1. <a id="1"></a>[https://docs.rocket.chat/](https://docs.rocket.chat/) Rocket.Chat Documentation - Rocket.Chat
 2. <a id="2"></a>[https://www.digitalocean.com/community/tutorials/how-to-...](https://www.digitalocean.com/community/tutorials/how-to-install-configure-and-deploy-rocket-chat-on-ubuntu-14-04) How To Install, Configure, and Deploy Rocket.Chat on Ubuntu 14.04 - DigitalOcean
